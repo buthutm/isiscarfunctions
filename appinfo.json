@@ -1,0 +1,18 @@
+{
+    "shortName": "ISIS Car Functions",
+    "versionCode": 1,
+    "watchapp": {
+        "watchface": false
+    },
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "michael.buthut@vw.com",
+    "longName": "ISIS Car Functions",
+    "appKeys": {},
+    "uuid": "40dad3ff-371a-4269-ae6d-c6b03dcaa6ac",
+    "resources": {
+        "media": []
+    }
+}
